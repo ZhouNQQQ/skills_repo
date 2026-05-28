@@ -8,6 +8,7 @@ description: >
   提供七步工作流：需求分析→内容拆解→策略选择→深度理解
   （费曼法）→科学记忆→动力习惯→评估迭代。
   详细方法论见 references/ 目录。
+  源码: https://github.com/ZhouNQQQ/skills_repo/tree/main/learning-complete-suite
 ---
 
 # 学习完整体系 (Learning Complete Suite)
