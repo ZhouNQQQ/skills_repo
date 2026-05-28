@@ -15,6 +15,8 @@ description: >
 整合费曼学习法、科学学习底层逻辑、学习动力系统三大方法论，
 提供从计划设计到深度理解、科学记忆、动力养成的完整学习系统。
 
+**源码仓库：** [https://github.com/ZhouNQQQ/skills_repo/tree/main/learning-complete-suite](https://github.com/ZhouNQQQ/skills_repo/tree/main/learning-complete-suite)
+
 **参考文献：**
 - `references/feynman-workflow.md` — 费曼五步法与三次复述工作法
 - `references/science-tactics.md` — 认知科学六大记忆战术
